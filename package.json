@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.1305.0",
     "https": "^1.0.0",
     "zlib": "^1.0.5"
   }
